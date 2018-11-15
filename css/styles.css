@@ -1,0 +1,15 @@
+#rides, #no-rides {
+  display: none;
+}
+
+.important {
+  color: blue;
+}
+
+.unimportant {
+  color: green;
+}
+
+h1 {
+  font-size: 13px;
+}
